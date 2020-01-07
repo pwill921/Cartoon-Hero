@@ -3,14 +3,14 @@ body{
 }
 
 h1{
-  color: orange;
+  color: darkseagreen;
   font-size: 90px;
   text-decoration: underline;
 }
 
 h2{
   font-size: 22px;
-  color: green;
+  color: fuchsia;
 }
 
 .small{
@@ -23,8 +23,19 @@ h2{
 
 span{
   font-style: italic;
+  color: navy;
 }
 
 h2 span{
   text-decoration: line-through;
 }
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.small.uppercase{
+  color: navy;
+}
+
+
