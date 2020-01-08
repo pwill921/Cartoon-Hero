@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  font-family: helvetca, arial, sans-serif
+  font-size: 20px;
+  line-height: 30px;
+}
+
+header{
+  background-color: black;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+header h1{
+  color: white;
+  font-size: 50px;
+}
+
+h1, h2{
+  font-family: 'Fjalla One', sans-serif;
+}
+
+header img{
+  border-radius: 170px;
+  width: 300px;
+  border: 3px solid #512E5F;
+}
+
+
+main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+main img{
+  max-width: 100%;
+}
+
+h2{
+  font-size: 30px;
+}
+
+p{
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
